@@ -1,0 +1,896 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [{
+        "uri": "nyt://article/4a3415ef-4390-577c-9cde-438b8b10bfd7",
+        "url": "https://www.nytimes.com/2020/02/18/us/politics/trump-pardon-blagojevich-debartolo.html",
+        "id": 100000006985278,
+        "asset_id": 100000006985278,
+        "source": "New York Times",
+        "published_date": "2020-02-18",
+        "updated": "2020-02-19 10:18:12",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Amnesties, Commutations and Pardons;United States Politics and Government;Gambling;Trump, Donald J;Kerik, Bernard B;Debartolo, Edward J Jr;Blagojevich, Rod R;Milken, Michael R;Police Department (NYC);San Francisco 49ers;Illinois",
+        "column": null,
+        "byline": "By Michael D. Shear and Maggie Haberman",
+        "type": "Article",
+        "title": "Trump Grants Clemency to Blagojevich, Milken and Kerik",
+        "abstract": "The president also pardoned or commuted the sentences of eight others on Tuesday, including Edward DeBartolo, a former owner of the San Francisco 49ers.",
+        "des_facet": ["Amnesties, Commutations and Pardons", "United States Politics and Government", "Gambling"],
+        "org_facet": ["Police Department (NYC)", "San Francisco 49ers"],
+        "per_facet": ["Trump, Donald J", "Kerik, Bernard B", "Debartolo, Edward J Jr", "Blagojevich, Rod R", "Milken, Michael R"],
+        "geo_facet": ["Illinois"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Rod R. Blagojevich, the former governor of Illinois, on the second day of his sentencing hearing in 2011.",
+            "copyright": "Charles Rex Arbogast/Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2011/12/08/us/18dc-pardon-sub/18dc-pardon-sub-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2011/12/08/us/18dc-pardon-sub/18dc-pardon-sub-mediumThreeByTwo210-v4.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2011/12/08/us/18dc-pardon-sub/18dc-pardon-sub-mediumThreeByTwo440-v4.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/6249820e-1b01-5bcd-bf07-592f88464f44",
+        "url": "https://www.nytimes.com/2020/01/16/smarter-living/night-owl-sleep-guide.html",
+        "id": 100000006780492,
+        "asset_id": 100000006780492,
+        "source": "New York Times",
+        "published_date": "2020-01-16",
+        "updated": "2020-01-24 13:03:19",
+        "section": "Smarter Living",
+        "subsection": "",
+        "nytdsection": "smarter living",
+        "adx_keywords": "Sleep;Biorhythms;Smartphones",
+        "column": null,
+        "byline": "By Harry Guinness",
+        "type": "Article",
+        "title": "A (Former) Night Owl’s Guide to Becoming a Morning Person",
+        "abstract": "I love staying up late, but I hate struggling through the mornings. Here’s how I adapted, and how you can, too.",
+        "des_facet": ["Sleep", "Biorhythms", "Smartphones"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": " ",
+            "copyright": "Arnaud Aubry",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/01/20/smarter-living/0sl_morningperson/0sl_morningperson-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/01/20/smarter-living/0sl_morningperson/0sl_morningperson-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/01/20/smarter-living/0sl_morningperson/0sl_morningperson-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/da0797a0-13f7-5201-a7ce-31920e04a15f",
+        "url": "https://www.nytimes.com/2020/02/17/health/pelvic-medical-exam-unconscious.html",
+        "id": 100000006948473,
+        "asset_id": 100000006948473,
+        "source": "New York Times",
+        "published_date": "2020-02-17",
+        "updated": "2020-02-18 14:47:31",
+        "section": "Health",
+        "subsection": "",
+        "nytdsection": "health",
+        "adx_keywords": "Pelvis;Women and Girls;Hospitals;Law and Legislation;Tests (Medical);#MeToo Movement;Vagina;Anesthesia and Anesthetics;Ethics and Official Misconduct;Medical Schools",
+        "column": null,
+        "byline": "By Emma Goldberg",
+        "type": "Article",
+        "title": "She Didn’t Want a Pelvic Exam. She Received One Anyway.",
+        "abstract": "Medical schools and students are grappling with an unsettling practice: Performing pelvic exams on unconscious, non-consenting patients.",
+        "des_facet": ["Pelvis", "Women and Girls", "Hospitals", "Law and Legislation", "Tests (Medical)", "#MeToo Movement", "Vagina", "Anesthesia and Anesthetics", "Ethics and Official Misconduct", "Medical Schools"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ashley Weitz, who received an unauthorized pelvic exam in 2007, on the grounds of the Utah State Capitol. Last year she testified before the Utah Senate in favor of a bill requiring express consent for the procedure.",
+            "copyright": "Lindsay D'Addato for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/11/science/00SCI-PELVIC01/00SCI-PELVIC01-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/11/science/00SCI-PELVIC01/00SCI-PELVIC01-mediumThreeByTwo210-v3.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/11/science/00SCI-PELVIC01/00SCI-PELVIC01-mediumThreeByTwo440-v3.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/702f64d9-b11b-5b6f-b072-606a219d81d4",
+        "url": "https://www.nytimes.com/2017/02/18/arts/music/clyde-stubblefield-dead.html",
+        "id": 100000004942174,
+        "asset_id": 100000004942174,
+        "source": "New York Times",
+        "published_date": "2017-02-18",
+        "updated": "2018-01-19 23:05:12",
+        "section": "Arts",
+        "subsection": "Music",
+        "nytdsection": "arts",
+        "adx_keywords": "Deaths (Obituaries);Music;Rap and Hip-Hop;Stubblefield, Clyde;Brown, James (1933-2006)",
+        "column": null,
+        "byline": "By Jon Caramanica",
+        "type": "Article",
+        "title": "Clyde Stubblefield, the ‘Funky Drummer’ for James Brown, Dies at 73",
+        "abstract": "Mr. Stubblefield was best known for a drum solo near the end of a 1969 Brown song he “didn’t like” that became the ubiquitous breakbeat of hip-hop’s sampling era.",
+        "des_facet": ["Deaths (Obituaries)", "Music", "Rap and Hip-Hop"],
+        "org_facet": [],
+        "per_facet": ["Stubblefield, Clyde", "Brown, James (1933-2006)"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Clyde Stubblefield in 2010 in Madison, Wis.",
+            "copyright": "Benjamin Franzen",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2017/02/19/arts/19STUBBLEFIELD-obit/19STUBBLEFIELD-obit-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2017/02/19/arts/19STUBBLEFIELD-obit/19STUBBLEFIELD-obit-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2017/02/19/arts/19STUBBLEFIELD-obit/19STUBBLEFIELD-obit-mediumThreeByTwo440-v2.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/ef691f56-eb48-5c24-bf6d-a1b266c1fef9",
+        "url": "https://www.nytimes.com/2020/02/18/well/family/why-teenagers-reject-parents-solutions-to-their-problems.html",
+        "id": 100000006971033,
+        "asset_id": 100000006971033,
+        "source": "New York Times",
+        "published_date": "2020-02-18",
+        "updated": "2020-02-18 05:00:11",
+        "section": "Well",
+        "subsection": "Family",
+        "nytdsection": "well",
+        "adx_keywords": "Parenting;Empathy;Teenagers and Adolescence;Families and Family Life",
+        "column": null,
+        "byline": "By Lisa Damour",
+        "type": "Article",
+        "title": "Why Teenagers Reject Parents’ Solutions to Their Problems",
+        "abstract": "It’s usually because we’re not giving them what they’re really looking for.",
+        "des_facet": ["Parenting", "Empathy", "Teenagers and Adolescence", "Families and Family Life"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/18/well/18well-damour/18well-damour-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/18/well/18well-damour/18well-damour-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/18/well/18well-damour/18well-damour-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/6671faac-8e1f-52b5-997a-97a269ad173a",
+        "url": "https://www.nytimes.com/2013/03/08/education/philadelphia-officials-vote-to-close-23-schools.html",
+        "id": 100000002107196,
+        "asset_id": 100000002107196,
+        "source": "New York Times",
+        "published_date": "2013-03-07",
+        "updated": "2018-10-19 02:29:17",
+        "section": "Education",
+        "subsection": "",
+        "nytdsection": "education",
+        "adx_keywords": "Education (K-12);Shutdowns (Institutional);Budgets and Budgeting;Teachers and School Employees;Hurdle, Jon;Philadelphia (Pa)",
+        "column": null,
+        "byline": "By Jon Hurdle",
+        "type": "Article",
+        "title": "Philadelphia Officials Vote to Close 23 Schools",
+        "abstract": "The closings are part of a plan by the school district to erase a huge budget deficit and reduce the number of underused schools.",
+        "des_facet": ["Education (K-12)", "Shutdowns (Institutional)", "Budgets and Budgeting", "Teachers and School Employees"],
+        "org_facet": [],
+        "per_facet": ["Hurdle, Jon"],
+        "geo_facet": ["Philadelphia (Pa)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Students and staff from University City High School reacted after learning their school would be closed by the School Reform Commission.",
+            "copyright": "Tom Gralish/The Philadelphia Inquirer, via Associated Press",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2013/03/09/us/08philadelphia1/08philadelphia1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/df4d9d06-afb4-5dcc-9ff2-b046eb6f1e97",
+        "url": "https://www.nytimes.com/2020/01/20/style/no-sex-celibacy.html",
+        "id": 100000006922609,
+        "asset_id": 100000006922609,
+        "source": "New York Times",
+        "published_date": "2020-01-20",
+        "updated": "2020-01-31 23:48:42",
+        "section": "Style",
+        "subsection": "",
+        "nytdsection": "style",
+        "adx_keywords": "Sex;Abstinence (Sexual);Dating and Relationships;your-feed-selfcare",
+        "column": null,
+        "byline": "By Sanam Yar",
+        "type": "Article",
+        "title": "I Quit Dating Entirely",
+        "abstract": "Mae-sa Dixon, 35, swore off sex seven years ago. She says she’s never been happier.",
+        "des_facet": ["Sex", "Abstinence (Sexual)", "Dating and Relationships", "your-feed-selfcare"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Shutterstock",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/01/21/fashion/21quit-promo-candle/21quit-promo---thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/01/21/fashion/21quit-promo-candle/21quit-promo---mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/01/21/fashion/21quit-promo-candle/21quit-promo---mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/7286a2c9-5e7b-5073-a22a-8cec90b630b8",
+        "url": "https://www.nytimes.com/2020/02/17/world/asia/coronavirus-westerdam-cambodia-hun-sen.html",
+        "id": 100000006984200,
+        "asset_id": 100000006984200,
+        "source": "New York Times",
+        "published_date": "2020-02-17",
+        "updated": "2020-02-18 12:23:44",
+        "section": "World",
+        "subsection": "Asia Pacific",
+        "nytdsection": "world",
+        "adx_keywords": "Coronavirus (2019-nCoV);Ships and Shipping;Protective Clothing and Gear;Masks;Tests (Medical);Thermometers;Cambodia",
+        "column": null,
+        "byline": "By Hannah Beech",
+        "type": "Article",
+        "title": "Cambodia’s Coronavirus Complacency May Exact a Global Toll",
+        "abstract": "After a cruise ship docked in Cambodia, passengers streamed off the ship, maskless, and fears are rising that the country could become a vector of transmission.",
+        "des_facet": ["Coronavirus (2019-nCoV)", "Ships and Shipping", "Protective Clothing and Gear", "Masks", "Tests (Medical)", "Thermometers"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": ["Cambodia"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Westerdam cruse ship docked in Sihanoukville, Cambodia, on Monday.",
+            "copyright": "Paula Bronstein/Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/17/world/17cambodia-ship/17cambodia-ship-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/17/world/17cambodia-ship/merlin_169050351_a6dfa935-0209-4299-9460-a3651f51b5ff-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/17/world/17cambodia-ship/merlin_169050351_a6dfa935-0209-4299-9460-a3651f51b5ff-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/f1c385b6-bcba-5016-9829-1b9869f8dcf3",
+        "url": "https://www.nytimes.com/2020/02/18/movies/ben-affleck.html",
+        "id": 100000006965096,
+        "asset_id": 100000006965096,
+        "source": "New York Times",
+        "published_date": "2020-02-18",
+        "updated": "2020-02-19 11:05:07",
+        "section": "Movies",
+        "subsection": "",
+        "nytdsection": "movies",
+        "adx_keywords": "Movies;Affleck, Ben;Garner, Jennifer",
+        "column": null,
+        "byline": "By Brooks Barnes",
+        "type": "Article",
+        "title": "Ben Affleck Tried to Drink Away the Pain. Now He’s Trying Honesty.",
+        "abstract": "The actor speaks frankly about everything from his addictive behavior and his divorce to why he lied about that back tattoo.",
+        "des_facet": ["Movies"],
+        "org_facet": [],
+        "per_facet": ["Affleck, Ben", "Garner, Jennifer"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ben Affleck said of his public relapse last year: “I wish it didn’t happen. I really wish it wasn’t on the internet for my kids to see. Jen and I did our best to address it and be honest.”",
+            "copyright": "Magdalena Wosinska for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/23/arts/23affleck1/23affleck1-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/23/arts/23affleck1/23affleck1-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/23/arts/23affleck1/23affleck1-mediumThreeByTwo440-v2.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/b35a5dca-dcd1-5ae0-9fba-741a0422e9be",
+        "url": "https://www.nytimes.com/2020/02/18/us/boy-scouts-bankruptcy-sex-abuse.html",
+        "id": 100000006725445,
+        "asset_id": 100000006725445,
+        "source": "New York Times",
+        "published_date": "2020-02-18",
+        "updated": "2020-02-19 00:32:25",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Child Abuse and Neglect;Bankruptcies;Sex Crimes;Boy Scouts;Delaware",
+        "column": null,
+        "byline": "By Mike Baker",
+        "type": "Article",
+        "title": "Boy Scouts Seek Bankruptcy to Survive a Deluge of Sex-Abuse Claims",
+        "abstract": "The nonprofit group, which counts more than two million youth participants, follows Catholic dioceses and U.S.A. Gymnastics in seeking bankruptcy protection amid sex-abuse cases.",
+        "des_facet": ["Child Abuse and Neglect", "Bankruptcies", "Sex Crimes"],
+        "org_facet": ["Boy Scouts"],
+        "per_facet": [],
+        "geo_facet": ["Delaware"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Boy Scouts of America, now based in Irving, Texas, was founded in 1910.",
+            "copyright": "Allison V. Smith for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/17/us/00boyscouts-01alt-promo/00boyscouts-01alt-promo-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/17/us/00boyscouts-01alt-promo/00boyscouts-01alt-promo-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/17/us/00boyscouts-01alt-promo/00boyscouts-01alt-promo-mediumThreeByTwo440-v2.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/106125db-34ef-5ab6-b2f9-1387200db5f2",
+        "url": "https://www.nytimes.com/2020/02/17/well/eat/the-benefits-of-intermittent-fasting.html",
+        "id": 100000006906640,
+        "asset_id": 100000006906640,
+        "source": "New York Times",
+        "published_date": "2020-02-17",
+        "updated": "2020-02-19 05:46:06",
+        "section": "Well",
+        "subsection": "Eat",
+        "nytdsection": "well",
+        "adx_keywords": "Obesity;Weight;Diet and Nutrition;Food;Fasting",
+        "column": null,
+        "byline": "By Jane E. Brody",
+        "type": "Article",
+        "title": "The Benefits of Intermittent Fasting",
+        "abstract": "I was skeptical, but it turns out there is something to be said for a daily fast, preferably one lasting at least 16 hours.",
+        "des_facet": ["Obesity", "Weight", "Diet and Nutrition", "Food", "Fasting"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Gracia Lam",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/18/science/18BRODYFASTING/18BRODYFASTING-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/18/science/18BRODYFASTING/18BRODYFASTING-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/18/science/18BRODYFASTING/18BRODYFASTING-mediumThreeByTwo440-v2.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/3a2d7b84-a817-59a0-97a9-15726bb225a4",
+        "url": "https://www.nytimes.com/2020/02/14/us/Border-Patrol-ICE-Sanctuary-Cities.html",
+        "id": 100000006979447,
+        "asset_id": 100000006979447,
+        "source": "New York Times",
+        "published_date": "2020-02-14",
+        "updated": "2020-02-18 15:28:41",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Illegal Immigration;Federal-State Relations (US);Immigration and Emigration;Deportation;United States Politics and Government;Trump, Donald J;Border Patrol (US);Customs and Border Protection (US);Immigration and Customs Enforcement (US);Homeland Security Department",
+        "column": null,
+        "byline": "By Caitlin Dickerson and Zolan Kanno-Youngs",
+        "type": "Article",
+        "title": "Border Patrol Will Deploy Elite Tactical Agents to Sanctuary Cities",
+        "abstract": "Agents from a special tactical team that normally confronts smugglers on the border are being sent to sanctuary cities across the country.",
+        "des_facet": ["Illegal Immigration", "Federal-State Relations (US)", "Immigration and Emigration", "Deportation", "United States Politics and Government"],
+        "org_facet": ["Border Patrol (US)", "Customs and Border Protection (US)", "Immigration and Customs Enforcement (US)", "Homeland Security Department"],
+        "per_facet": ["Trump, Donald J"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "An agent with the U.S. Border Patrol Tactical Unit, known as BORTAC, an elite group that functions essentially as the SWAT of Border Patrol.",
+            "copyright": "Adrees Latif/Reuters",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/14/us/14border-sanctuary01/14border-sanctuary01-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/14/us/14border-sanctuary01/14border-sanctuary01-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/14/us/14border-sanctuary01/14border-sanctuary01-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/9796eaae-f580-52d2-905f-7f4f9474b940",
+        "url": "https://www.nytimes.com/2020/02/15/fashion/weddings/unmarried-happily-ever-after.html",
+        "id": 100000006907544,
+        "asset_id": 100000006907544,
+        "source": "New York Times",
+        "published_date": "2020-02-15",
+        "updated": "2020-02-19 11:05:06",
+        "section": "Fashion",
+        "subsection": "Love",
+        "nytdsection": "fashion",
+        "adx_keywords": "Dating and Relationships;Women and Girls;Single Persons",
+        "column": null,
+        "byline": "By Hilary Sheinbaum",
+        "type": "Article",
+        "title": "Unmarried, Happily Ever After",
+        "abstract": "Being single isn’t a bad thing. In fact, many women prefer it.",
+        "des_facet": ["Dating and Relationships", "Women and Girls", "Single Persons"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Noa Denmon",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/16/fashion/00happilyUmarried-art/00happilyUmarried-art-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/16/fashion/00happilyUmarried-art/00happilyUmarried-art-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/16/fashion/00happilyUmarried-art/00happilyUmarried-art-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/98ab2fd2-b9d7-5fe6-982f-885c98c48da7",
+        "url": "https://www.nytimes.com/2020/02/18/us/coronavirus-omaha-nebraska-medical-center.html",
+        "id": 100000006984979,
+        "asset_id": 100000006984979,
+        "source": "New York Times",
+        "published_date": "2020-02-18",
+        "updated": "2020-02-19 00:09:18",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Quarantines;Coronavirus (2019-nCoV);Nebraska Medical Center (Omaha, Neb);Omaha (Neb);Nebraska",
+        "column": null,
+        "byline": "By Sarah Mervosh",
+        "type": "Article",
+        "title": "First Ebola, Now Coronavirus. Why an Omaha Hospital Gets the Toughest Cases.",
+        "abstract": "A biocontainment unit that drew attention for treating Ebola patients in 2014 is now evaluating more than a dozen cruise ship evacuees for the coronavirus.",
+        "des_facet": ["Quarantines", "Coronavirus (2019-nCoV)"],
+        "org_facet": ["Nebraska Medical Center (Omaha, Neb)"],
+        "per_facet": [],
+        "geo_facet": ["Omaha (Neb)", "Nebraska"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A convoy transported Americans who had been exposed to the coronavirus on a cruise ship in Japan to the Nebraska Medical Center in Omaha on Monday.",
+            "copyright": "Z Long/Omaha World-Herald, via Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/18/us/18coronavirus-omaha/18coronavirus-omaha-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/18/us/18coronavirus-omaha/18coronavirus-omaha-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/18/us/18coronavirus-omaha/18coronavirus-omaha-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/270593a3-140c-5bc5-97cd-9bc3127081b4",
+        "url": "https://www.nytimes.com/2020/02/17/opinion/bloomberg-buttigieg-economy.html",
+        "id": 100000006981146,
+        "asset_id": 100000006981146,
+        "source": "New York Times",
+        "published_date": "2020-02-17",
+        "updated": "2020-02-18 17:34:57",
+        "section": "Opinion",
+        "subsection": "",
+        "nytdsection": "opinion",
+        "adx_keywords": "Presidential Election of 2020;Credit and Debt;United States Politics and Government;Federal Taxes (US);Subprime Mortgage Crisis;Bloomberg, Michael R;Buttigieg, Pete (1982- );Trump, Donald J;Democratic Party;Republican Party",
+        "column": null,
+        "byline": "By Paul Krugman",
+        "type": "Article",
+        "title": "Have Zombies Eaten Bloomberg’s and Buttigieg’s Brains?",
+        "abstract": "Beware the Democrats of the living dead.",
+        "des_facet": ["Presidential Election of 2020", "Credit and Debt", "United States Politics and Government", "Federal Taxes (US)", "Subprime Mortgage Crisis"],
+        "org_facet": ["Democratic Party", "Republican Party"],
+        "per_facet": ["Bloomberg, Michael R", "Buttigieg, Pete (1982- )", "Trump, Donald J"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/17/opinion/17krugmanWeb/17krugmanWeb-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/17/opinion/17krugmanWeb/17krugmanWeb-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/17/opinion/17krugmanWeb/17krugmanWeb-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/3ae87c83-8625-541a-a75d-45c4a54d3612",
+        "url": "https://www.nytimes.com/2020/02/07/opinion/sunday/cressida-cowell-children-nature.html",
+        "id": 100000006811685,
+        "asset_id": 100000006811685,
+        "source": "New York Times",
+        "published_date": "2020-02-07",
+        "updated": "2020-02-14 11:53:26",
+        "section": "Opinion",
+        "subsection": "Sunday Review",
+        "nytdsection": "opinion",
+        "adx_keywords": "Children and Childhood;Writing and Writers;Books and Literature;Wilderness Areas;Global Warming;Hebrides Islands (Great Britain);Scotland;England",
+        "column": null,
+        "byline": "By Cressida Cowell",
+        "type": "Article",
+        "title": "I Had a Gloriously Wild Childhood. That’s Why I Wrote ‘How to Train Your Dragon.’",
+        "abstract": "We must give children the opportunity to interact with the wilderness, so that they learn to preserve the natural world.",
+        "des_facet": ["Children and Childhood", "Writing and Writers", "Books and Literature", "Wilderness Areas", "Global Warming"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": ["Hebrides Islands (Great Britain)", "Scotland", "England"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "JooHee Yoon",
+            "copyright": "JooHee Yoon",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/13/opinion/sunday/09cowell/09cowell-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/13/opinion/sunday/09cowell/09cowell-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/13/opinion/sunday/09cowell/09cowell-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/25ee61d0-56f6-5b20-bb4d-4f24aeb1f24d",
+        "url": "https://www.nytimes.com/2020/01/28/us/charles-lieber-harvard.html",
+        "id": 100000006945449,
+        "asset_id": 100000006945449,
+        "source": "New York Times",
+        "published_date": "2020-01-28",
+        "updated": "2020-01-31 11:30:46",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Colleges and Universities;Research;Science and Technology;Industrial Espionage;Ethics and Official Misconduct;Lieber, Charles M (1959- );Harvard University;China",
+        "column": null,
+        "byline": "By Ellen Barry",
+        "type": "Article",
+        "title": "U.S. Accuses Harvard Scientist of Concealing Chinese Funding",
+        "abstract": "Prosecutors say Charles M. Lieber, the chair of Harvard’s chemistry department, lied about contacts with a Chinese state-run initiative that seeks to draw foreign-educated talent.",
+        "des_facet": ["Colleges and Universities", "Research", "Science and Technology", "Industrial Espionage", "Ethics and Official Misconduct"],
+        "org_facet": ["Harvard University"],
+        "per_facet": ["Lieber, Charles M (1959- )"],
+        "geo_facet": ["China"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Charles M. Lieber at an award ceremony in Jerusalem in 2012.",
+            "copyright": "Menahem Kahana/Agence France-Presse — Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/01/28/us/28harvardscientist/28harvardscientist-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/01/28/us/28harvardscientist/28harvardscientist-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/01/28/us/28harvardscientist/28harvardscientist-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/64a254a0-fb98-51f8-8c8e-ad52e33653b3",
+        "url": "https://www.nytimes.com/2019/12/11/well/what-to-do-about-an-overtalker.html",
+        "id": 100000006866002,
+        "asset_id": 100000006866002,
+        "source": "New York Times",
+        "published_date": "2019-12-11",
+        "updated": "2019-12-24 13:24:17",
+        "section": "Well",
+        "subsection": "",
+        "nytdsection": "well",
+        "adx_keywords": "Narcissism",
+        "column": null,
+        "byline": "By Nancy Wartik",
+        "type": "Article",
+        "title": "What to Do About an Overtalker",
+        "abstract": "Here’s what to do if you get stuck at the receiving end of a one way conversation.",
+        "des_facet": ["Narcissism"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2019/12/10/smarter-living/00overtalkers/00overtalkers-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2019/12/10/smarter-living/00overtalkers/00overtalkers-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2019/12/10/smarter-living/00overtalkers/00overtalkers-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/51f6f4c5-4e8a-5359-88c2-f092a31bc7e1",
+        "url": "https://www.nytimes.com/2020/02/18/arts/zoe-caldwell-dead.html",
+        "id": 100000006985893,
+        "asset_id": 100000006985893,
+        "source": "New York Times",
+        "published_date": "2020-02-18",
+        "updated": "2020-02-19 10:43:09",
+        "section": "Arts",
+        "subsection": "",
+        "nytdsection": "arts",
+        "adx_keywords": "Deaths (Obituaries);Actors and Actresses;Theater;Tony Awards (Theater Awards);Caldwell, Zoe",
+        "column": null,
+        "byline": "By Neil Genzlinger",
+        "type": "Article",
+        "title": "Zoe Caldwell, Winner of Four Tony Awards, Is Dead at 86",
+        "abstract": "Her signature performances included the title role in “The Prime of Miss Jean Brodie” and Maria Callas in “Master Class.”",
+        "des_facet": ["Deaths (Obituaries)", "Actors and Actresses", "Theater", "Tony Awards (Theater Awards)"],
+        "org_facet": [],
+        "per_facet": ["Caldwell, Zoe"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Zoe Caldwell in her dressing room at the Helen Hayes Theater while appearing in &ldquo;The Prime of Miss Jean Brodie&rdquo; in 1968. She won a Tony for that performance, one of four she garnered over her career.",
+            "copyright": "Patrick A. Burns/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/02/19/obituaries/19Caldwell1/00Caldwell1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/19/obituaries/19Caldwell1/merlin_152319762_bc2835a2-76d6-46c0-848d-3ec3ccee73b6-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/02/19/obituaries/19Caldwell1/merlin_152319762_bc2835a2-76d6-46c0-848d-3ec3ccee73b6-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/aeefdbcf-2f9f-5e31-bd62-a82a10f473ce",
+        "url": "https://www.nytimes.com/2020/01/23/business/cum-ex.html",
+        "id": 100000006932997,
+        "asset_id": 100000006932997,
+        "source": "New York Times",
+        "published_date": "2020-01-23",
+        "updated": "2020-01-28 13:30:07",
+        "section": "Business",
+        "subsection": "",
+        "nytdsection": "business",
+        "adx_keywords": "Banking and Financial Institutions;Tax Evasion;Frauds and Swindling;Stocks and Bonds;Rebates and Refunds;Pensions and Retirement Plans;Mora, Paul (Banker);Shields, Martin (Banker);Europe;Bonn (Germany);Germany",
+        "column": null,
+        "byline": "By David Segal",
+        "type": "Article",
+        "title": "It May Be the Biggest Tax Heist Ever. And Europe Wants Justice.",
+        "abstract": "Stock traders are accused of siphoning $60 billion from state coffers, in a scheme that one called “the devil’s machine.” Germany is the first country to try to get its money back.",
+        "des_facet": ["Banking and Financial Institutions", "Tax Evasion", "Frauds and Swindling", "Stocks and Bonds", "Rebates and Refunds", "Pensions and Retirement Plans"],
+        "org_facet": [],
+        "per_facet": ["Mora, Paul (Banker)", "Shields, Martin (Banker)"],
+        "geo_facet": ["Europe", "Bonn (Germany)", "Germany"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Illustration by Nicolas Ortega",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2020/01/26/business/23greattaxrobbery-illo-copy/23greattaxrobbery-illo-copy-thumbStandard-v3.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2020/01/26/business/23greattaxrobbery-illo-copy/23greattaxrobbery-illo-copy-mediumThreeByTwo210-v5.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2020/01/26/business/23greattaxrobbery-illo-copy/23greattaxrobbery-illo-copy-mediumThreeByTwo440-v5.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }]
+}
